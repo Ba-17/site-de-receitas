@@ -4,3 +4,18 @@
     box-sizing: border-box;
 }
 
+:root {
+    --preto: #000000;
+    --branco: #FFFFFF;
+    --Rosa: #bb68cf;
+
+
+}
+
+header{
+    display: flex;
+    width: 100%;
+    border-color: var(--Rosa);
+    padding: 1rem;
+    justify-content: center;
+}
