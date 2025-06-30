@@ -15,43 +15,12 @@
     --marron-claro: #FAF1E6;
 }
 
-.portfolio h1{
-    font-size: 4rem;
-    color: var(--amarelo-claro);
-}
-
-body{
-    height: 100vh;
-    box-sizing: border-box;
-    background-color: var(--azul-claro);
-    color: var(--preto);
-    font-size: 16px;
-    
-}
-
-header {
+header{
     display: flex; 
     width: 100%;
     background-color: var(--rosa);
     padding: 1rem;
     justify-content: center;
 }
-
-.portfolio h1{
-    font-size: 4rem;
-    color: var(--amarelo-claro);
-}
-main {
-    margin: 40px auto;
-    padding: 20px;
 }
 
-
-.container {
-    display: grid;
-    align-items: center;
-    justify-items: center;
-    row-gap: 50px;
-    column-gap: 5px;
-    grid-template-columns: 50% 50%;
-}
