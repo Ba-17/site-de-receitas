@@ -15,23 +15,6 @@
     --marron-claro: #FAF1E6;
 }
 
-body{
-    height: 100vh;
-    box-sizing: border-box;
-    background-color: var(--azul-claro);
-    color: var(--preto);
-    font-size: 16px;
-    
-}
-
-header {
-    display: flex; 
-    width: 100%;
-    background-color: var(--rosa);
-    padding: 1rem;
-    justify-content: center;
-}
-
 .portfolio h1{
     font-size: 4rem;
     color: var(--amarelo-claro);
