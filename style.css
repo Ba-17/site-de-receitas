@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --preto: #000000;
+    --rosa: #bb68cf;
+    --amarelo-claro: #FFF2AF;
+    --rosa-claro: #e2a5ff;
+    --lilas: #a385bc;
+    --azul-claro: #d9d7f0;
+    --branco: #FFFFFF;
+    --marron-claro: #FAF1E6;
+}
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: var(--azul-claro);
+    color: var(--preto);
+    font-size: 16px;
+    
+}
+
+header {
+    display: flex; 
+    width: 100%;
+    background-color: var(--rosa);
+    padding: 1rem;
+    justify-content: center;
+}
+
+.portfolio h1{
+    font-size: 4rem;
+    color: var(--amarelo-claro);
+}
