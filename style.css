@@ -15,6 +15,15 @@
     --marron-claro: #FAF1E6;
 }
 
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: var(--azul-claro);
+    color: var(--preto);
+    font-size: 16px;
+    
+}
+
 header{
     display: flex; 
     width: 100%;
