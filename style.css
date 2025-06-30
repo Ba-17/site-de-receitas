@@ -28,3 +28,17 @@ header{
     padding: 1rem;
     justify-content: center;
 }
+
+.portfolio h1{
+    font-size: 4rem;
+    color: var(--amarelo-claro);
+}
+
+.container {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    row-gap: 50px;
+    column-gap: 5px;
+    grid-template-columns: 50% 50%;
+}
