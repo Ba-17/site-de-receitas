@@ -28,3 +28,13 @@ header{
     padding: 1rem;
     justify-content: center;
 }
+
+main{
+    margin: 40px auto;
+}
+
+h2{
+    text-align: center;
+    margin: 40px auto;
+    font-size: 3rem;
+}
