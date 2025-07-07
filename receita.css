@@ -96,12 +96,3 @@ main{
 }
 
 
-.home {
-    display: flex;
-    justify-content: flex-end;
-}
-
-.home a {
-    font-size: 2rem;
-    color: var(--lilas);
-}
