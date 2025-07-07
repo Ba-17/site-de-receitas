@@ -47,7 +47,7 @@ header{
     display: flex;
     justify-content: center;
     background-color: var(--branco);
-    border-radius: 10px;
+    border-radius: 115px;
     padding: 30px;
     width: 80%;
     min-width: 280px;
