@@ -62,8 +62,12 @@ header{
 
 .receitas a {
     color: var(--lilas);
-    font-size: 5rem;
+    font-size: 3rem;
     text-decoration: none;
+}
+
+main{
+    margin: 40px auto;
 }
 
 h2{
