@@ -34,9 +34,14 @@ main{
 }
 
 
-h1{
+.fitness h1{
     text-align: center;
     font-size: 4rem;
+    margin: 50px;
+}
+
+.fitness{
+
 }
 
 h2{
