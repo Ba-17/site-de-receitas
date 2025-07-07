@@ -35,12 +35,12 @@ header{
 }
 
 .container {
-    display: grid;
+    display: flex;
     align-items: center;
     justify-items: center;
     row-gap: 50px;
     column-gap: 5px;
-    grid-template-columns: 50% 50%;
+
 }
 
 .receitas{
