@@ -30,7 +30,7 @@ header{
 }
 
 .fitness h1{
-    font-size: 6rem;
+    font-size: 3rem;
     color: var(--amarelo-claro);
 }
 
@@ -79,4 +79,8 @@ h2{
 .gatito{
     height: 10rem;
     width: 10rem;
+}
+
+.fitness{
+    margin: 50px;
 }
