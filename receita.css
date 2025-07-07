@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --preto: #000000;
+    --branco: #FFFFFF;
+    --rosa: #bb68cf;
+    --azul-claro: #d9d7f0;
+
+}
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: var(--azul-claro);
+    color: var(--preto);
+    font-size: 16px;
+    
+}
+
+header{
+    display: flex;
+    width: 100%;
+    background-color: var(--rosa);
+    padding: 1rem;
+    justify-content: center;
+}
