@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --preto: #000000;
+    --branco: #FFFFFF;
+    --rosa: #bb68cf;
+    --azul-claro: #d9d7f0;
+
+}
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: var(--azul-claro);
+    color: var(--preto);
+    font-size: 16px;
+    
+}
+
+header{
+    display: flex;
+    width: 100%;
+    background-color: var(--rosa);
+    padding: 1rem;
+    justify-content: center;
+}
+
+.fitness h1{
+    font-size: 6rem;
+    color: var(--amarelo-claro);
+}
+
+.container {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    row-gap: 50px;
+    column-gap: 5px;
+    grid-template-columns: 50% 50%;
+}
+
+.receitas{
+    display: flex;
+    justify-content: center;
+    background-color: var(--branco);
+    border-radius: 115px;
+    padding: 30px;
+    width: 80%;
+    min-width: 280px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.receitas:hover {
+    transform: translateY(-10px) scale(1.05);
+    box-shadow: 0 0 0 25px rgba(0, 0, 0, 0.2);
+}
+
+.receitas a {
+    color: var(--lilas);
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+main{
+    margin: 40px auto;
+}
+
+h2{
+    text-align: center;
+    margin: 40px auto;
+    font-size: 3rem;
+}
