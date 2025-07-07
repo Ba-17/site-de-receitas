@@ -40,13 +40,3 @@ h2{
 }
 
 
-.receitas{
-    display: flex;
-    justify-content: center;
-    background-color: var(--branco);
-    border-radius: 115px;
-    padding: 30px;
-    width: 80%;
-    min-width: 280px;
-    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
-
