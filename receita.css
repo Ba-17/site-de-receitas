@@ -94,3 +94,14 @@ main{
     padding: 16px;
     border-radius: 45px;
 }
+
+
+.home {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.home a {
+    font-size: 2rem;
+    color: var(--lilas);
+}
