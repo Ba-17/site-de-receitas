@@ -70,17 +70,17 @@ main{
     margin: 40px auto;
 }
 
-h2{
+.fitness h2{
     text-align: center;
     margin: 40px auto;
     font-size: 3rem;
 }
 
+.fitness{
+    margin: 50px;
+}
+
 .gatito{
     height: 10rem;
     width: 10rem;
-}
-
-.fitness{
-    margin: 50px;
 }
