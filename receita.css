@@ -37,17 +37,16 @@ main{
 .fitness h1{
     text-align: center;
     font-size: 4rem;
-    margin: 50px;
 }
 
-.fitness{
-
-}
-
-h2{
+.fitness h2{
     text-align: center;
     margin: 10px auto;
     font-size: 3rem;
+}
+
+.fitness{
+    margin: 50px;
 }
 
 .B{
@@ -60,8 +59,4 @@ h2{
 .gatito{
     height: 10rem;
     width: 10rem;
-}
-
-.fitness{
-    margin: 50px;
 }
