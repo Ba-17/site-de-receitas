@@ -35,10 +35,13 @@ main{
 
 h2{
     text-align: center;
-    margin: 40px auto;
+    margin: 10px auto;
     font-size: 3rem;
 }
 
 .B{
     background-color: #FFFFFF;
+    border-radius: 55px;
+    margin: 25px;
+    padding: 25px;
 }
