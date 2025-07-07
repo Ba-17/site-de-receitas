@@ -54,6 +54,7 @@ main{
     border-radius: 55px;
     margin: 25px;
     padding: 25px;
+    position: relative;
 }
 
 .gatito{
@@ -62,5 +63,12 @@ main{
 }
 
 .Brownie{
-    
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 19rem;
+    height: auto;
+    margin: 10px;
+    padding: 16px;
+    border-radius: 45px;
 }
