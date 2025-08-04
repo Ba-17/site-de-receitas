@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --preto: #000000;
+    --branco: #FFFFFF;
+    --rosa: #bb68cf;
+    --azul-claro: #d9d7f0;
+
+}
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: var(--azul-claro);
+    color: var(--preto);
+    font-size: 16px;
+    
+}
+
+header{
+    display: flex;
+    width: 100%;
+    background-color: var(--rosa);
+    padding: 1rem;
+    justify-content: center;
+}
+
+main{
+    margin: 40px auto;
+}
+
+
+.fitness h1{
+    text-align: center;
+    font-size: 4rem;
+}
+
+.fitness h2{
+    text-align: center;
+    margin: 10px auto;
+    font-size: 3rem;
+}
+
+.fitness{
+    margin: 50px;
+}
+
+.B{
+    background-color: #FFFFFF;
+    border-radius: 55px;
+    margin: 25px;
+    padding: 25px;
+    position: relative;
+}
+
+.gatito{
+    height: 10rem;
+    width: 10rem;
+}
+
+.Brownie{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 24rem;
+    height: auto;
+    margin: 10px;
+    padding: 16px;
+    border-radius: 45px;
+}
+
+.Pudim{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 25rem;
+    height: auto;
+    margin: 10px;
+    padding: 16px;
+    border-radius: 45px;
+}
+
+.Bolo{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 25rem;
+    height: auto;
+    margin: 10px;
+    padding: 16px;
+    border-radius: 45px;
+}
+
+.home {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.home a {
+    font-size: 2rem;
+    color: var(--lilas);
+}
+
+.fa-solid fa-star{}
