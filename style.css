@@ -84,3 +84,7 @@ main{
     height: 15rem;
     width: 15rem;
 }
+
+.h2{
+    position: absolute;
+}
