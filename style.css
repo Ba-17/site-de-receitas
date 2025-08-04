@@ -22,6 +22,7 @@ body{
 }
 header{
     display: flex;
+    height: 45%;
     width: 100%;
     background-color: var(--rosa);
     padding: 1rem;
