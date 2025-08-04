@@ -29,10 +29,7 @@ header{
     justify-content: center;
 }
 
-.fitness h1{
-    font-size: 5rem;
-    color: var(--amarelo-claro);
-}
+
 
 .container {
     display: grid;
@@ -85,6 +82,3 @@ main{
     width: 15rem;
 }
 
-.h2{
-    position: absolute;
-}
