@@ -67,6 +67,10 @@ main{
     margin: 40px auto;
 }
 
+main h2{
+    position: relative;
+}
+
 .fitness h2{
     text-align: center;
     margin: 40px auto;
