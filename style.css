@@ -20,6 +20,15 @@ body{
     font-size: 16px;
     
 }
+.home {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.home a {
+    font-size: 2rem;
+    color: var(--rosa);
+}
 
 header{
     display: flex;
@@ -29,7 +38,10 @@ header{
     justify-content: center;
 }
 
-
+.fitness h1{
+    font-size: 5rem;
+    color: var(--amarelo-claro);
+}
 
 .container {
     display: grid;
@@ -86,3 +98,6 @@ main h2{
     width: 15rem;
 }
 
+.h2{
+    position: absolute;
+}
