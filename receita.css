@@ -105,23 +105,5 @@ main{
     color: var(--lilas);
 }
 
-.menu{
-    cursor: pointer;
-    font-size: 2rem;
-    background: none;
-    background-color: var(--preto);
-    border: none;
-    padding: 1.05rem 1.5rem;
-    color: var(--rosa-claro);
-}
-
-.menu a{
-    color: var(--branco);
-    padding: 0.75rem 1rem;
-    text-decoration: none;
-    font-size: 2rem;
-    display: block;
-    text-align: center;
-}
 
 .fa-solid fa-star{}
