@@ -105,4 +105,24 @@ main{
     color: var(--lilas);
 }
 
+.menu-disciplina {
+    width: 100%;
+    display: inline-block;
+}
+
+.botao-disciplinas {
+    cursor: pointer;
+    font-size: 2rem;
+    background: none;
+    background-color: var(--preto);
+    border: none;
+    padding: 1.05rem 1.5rem;
+    color: var(--rosa-claro);
+}
+
+#menu-toggle {
+    display: none;
+}
+
+
 .fa-solid fa-star{}
