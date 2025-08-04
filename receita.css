@@ -117,7 +117,7 @@ main{
     background-color: var(--preto);
     border: none;
     padding: 1.05rem 1.5rem;
-    color: var(--rosa-claro);
+    color: var(--rosa);
 }
 
 #menu-toggle {
