@@ -104,6 +104,12 @@ main{
     font-size: 2rem;
     color: var(--lilas);
 }
+.home {
+    display: flex;
+    justify-content: flex-end;
+}
 
-
-.fa-solid fa-star{}
+.home a {
+    font-size: 2rem;
+    color: var(--rosa);
+}

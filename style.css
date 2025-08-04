@@ -20,16 +20,6 @@ body{
     font-size: 16px;
     
 }
-.home {
-    display: flex;
-    justify-content: flex-end;
-}
-
-.home a {
-    font-size: 2rem;
-    color: var(--rosa);
-}
-
 header{
     display: flex;
     width: 100%;
