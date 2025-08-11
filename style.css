@@ -95,5 +95,12 @@ main h2{
 }
 
 .botao{
-    
+    .botao {
+  background: var(--rosa);
+  color: white;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  margin: 0.5rem;
+  display: inline-block;
+}
 }
